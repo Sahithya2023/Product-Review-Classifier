@@ -1,10 +1,11 @@
+
 # NLP-Based Product Review Sentiment Analysis
 
 ## Problem
-Manual analysis of large-scale customer reviews is inefficient.
+Manual analysis of large-scale customer reviews is inefficient and lacks clarity on customer dissatisfaction.
 
 ## Solution
-An NLP pipeline to extract product aspects (e.g., battery, screen) and perform sentiment analysis.
+Developed an NLP pipeline to analyze customer reviews by extracting product aspects (e.g., battery, screen) and performing aspect-level sentiment analysis.
 
 ## Features
 - Aspect extraction
